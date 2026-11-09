@@ -1,0 +1,16 @@
+name: 意见和建议 / Feedback
+description: 哪里不好用、想要什么功能 / What doesn't work, or what you'd like
+labels: [feedback]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: 你的意见 / Your feedback
+      description: 直接写就好，截图可以直接粘贴进来。 / Just write it; paste screenshots straight in.
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: 在哪个页面 / Which page (optional)
+      placeholder: https://dearbit.net/...

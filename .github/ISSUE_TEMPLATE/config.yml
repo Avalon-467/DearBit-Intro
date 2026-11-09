@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 发邮件 / Email us
+    url: mailto:avalonhou24@gmail.com
+    about: 问题、建议、合作 / Questions, ideas, partnerships
+  - name: 打开 DearBit / Open DearBit
+    url: https://dearbit.net
+    about: 不用注册，打开就能用 / No sign-up needed
